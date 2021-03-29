@@ -1,2 +1,2 @@
-# Running a statistical test on a dataset
+# Running statistical test on a dataset
 
